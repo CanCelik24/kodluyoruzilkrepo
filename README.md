@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-[Kodluyoruz](https://www.kodluyoruz.org/) .Net eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+[Kodluyoruz](https://www.patika.dev) .Net eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ![Kodluyoruz ilk repo icin eklenecek fotograf](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)   
